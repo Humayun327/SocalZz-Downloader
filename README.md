@@ -1,4 +1,4 @@
-# Social VideoZz Downloader 🚀
+# SocialZz Downloader 🚀
 
 A high-speed, GUI-based video downloader built with **Python**, **Tkinter**, and **yt-dlp**. It supports downloading videos from YouTube, Dailymotion, Facebook, Instagram, and many other platforms.
 
